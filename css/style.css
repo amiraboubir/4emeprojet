@@ -125,7 +125,7 @@ li {
   margin-right: 1em;
 }
 .fa-mobile-alt:before, .fas-mobile-alt:before {
-  content: "\f3cd";
+  content: "/f3cd";
 }
 
 .fa-store {
