@@ -578,6 +578,7 @@
     background-color: #353535;
     color: white;
     padding: 1em 0em 1em 0em;
+    text-decoration: none;
   }
   @media screen and (min-width: 1024px) {
     .footer {
@@ -591,6 +592,7 @@
     font-family: "Shrikhand", cursive;
     padding-left: 2.25em;
     font-size: 18px;
+    font-style: italic;
   }
   .footer_logo {
     display: flex;
@@ -600,15 +602,16 @@
   
   footer a {
     color: white;
+    text-decoration: none;
   }
   
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 1024px) {
     .footer ul {
       display: flex;
     }
   }
   
-  @media screen and (min-width: 1000px) {
+  @media screen and (min-width: 1024px) {
     .footer li {
       margin-bottom: 0.5em;
       padding-left: 1em;
@@ -618,10 +621,7 @@
   .footer h3 {
     font-weight: 400;
     font-size: 16px;
-    font-family:"Shrikhand", cursive;
-    font-weight: bold;
   }
-
   
   
     
