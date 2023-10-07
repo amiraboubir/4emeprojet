@@ -579,6 +579,38 @@
     color: white;
     padding: 1em 0em 1em 0em;
     text-decoration: none;
+
+    /* Logo/ohmyfood */
+
+width: 139px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ohmyfood */
+
+position: absolute;
+left: 0%;
+right: 1.02%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Shrikhand';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+/* identical to box height */
+
+/* White */
+color: #FFFFFF;
+
+
   }
   @media screen and (min-width: 1024px) {
     .footer {
