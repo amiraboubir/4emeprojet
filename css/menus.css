@@ -612,16 +612,6 @@ hr {
   margin: 60px auto 100px auto;
 }
 
-footer h2 {
-  display: block;
-  font-size: 1.5em;
-  margin-block-start: 0.83em;
-  margin-block-end: 0.83em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-  font-family:"Shrikhand", cursive;
-}
 
 span {
   font-size: 15px;
@@ -668,7 +658,7 @@ span {
   }
 }
 
-.footer_title {
+.footer_title h2{
   font-family: "Shrikhand", cursive;
   padding-left: 2.25em;
   font-size: 18px;
