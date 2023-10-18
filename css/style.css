@@ -334,11 +334,8 @@ overflow: hidden;
     align-items: center;
   }
 }
-.footer_title {
-  font-family: "Shrikhand", cursive;
-  padding-left: 2.25em;
-  font-size: 18px;
-}
+
+
 .footer_logo {
   display: flex;
   align-items: baseline;
