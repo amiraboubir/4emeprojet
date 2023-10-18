@@ -131,19 +131,6 @@
   }
 }
 
-h1 {
-  text-align: center;
-  font-family: "Shrikhand", cursive;
-  margin-top: 0;
-  margin-bottom: 0;
-  display: block;
-  font-size: 2em;
-  margin-block-start: 0.67em;
-  margin-block-end: 0.67em;
-  margin-inline-start: 0px;
-  margin-inline-end: 0px;
-  font-weight: bold;
-}
 
 
 
@@ -315,11 +302,24 @@ header {
 }
 
 .section-bloc h1 {
-  font-family: "roboto";
+ 
   font-size: 30px;
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+  font-family: "Shrikhand", cursive;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
 .section-bloc .icon {
   height: 20px;
   width: 20px;
